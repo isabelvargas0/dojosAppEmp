@@ -1,0 +1,15 @@
+.rank {
+    display: block;
+}
+
+.item-avatar n:first-child,
+.item-avatar .item-img {
+    position: absolute;
+    top: 60px;
+    left: 15px;
+    font-size: 60px;
+    max-width: 80px;
+    max-height: 80px;
+    width: 100%;
+    border-radius: 10px;
+}
